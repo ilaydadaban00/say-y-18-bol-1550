@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\b18\b18\bin\Debug\b18.exe.config
+C:\Users\ben\source\repos\b18\b18\bin\Debug\b18.exe
+C:\Users\ben\source\repos\b18\b18\bin\Debug\b18.pdb
+C:\Users\ben\source\repos\b18\b18\obj\Debug\b18.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\b18\b18\obj\Debug\b18.Form1.resources
+C:\Users\ben\source\repos\b18\b18\obj\Debug\b18.Properties.Resources.resources
+C:\Users\ben\source\repos\b18\b18\obj\Debug\b18.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\b18\b18\obj\Debug\b18.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\b18\b18\obj\Debug\b18.exe
+C:\Users\ben\source\repos\b18\b18\obj\Debug\b18.pdb
